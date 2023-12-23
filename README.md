@@ -8,3 +8,5 @@ Each commits has an associated message which is a description explaining why a p
 Commit messages capture the history of your project's history so that other contributors or even yourself later can understand what you've done and why.
 
 # 2. Pull requests
+The commits you make make some changes ahead of main i.e. your branch now contains content different from main.
+With pull request, you are simply proposing your changes and requesting that someone review and pull in your contribution to their branch.
